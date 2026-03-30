@@ -4,7 +4,7 @@ An open-source, AI-powered research workspace built for academic researchers. Ap
 
 ### 🚀 Quick Links
 
-- **Live Demo**: https://apex-scholar.vercel.app
+- **Live Demo**: https://apexscholar.vercel.app
 - **Documentation**: https://apexscholar-docs.pages.dev
 - **Main App Repo**: https://github.com/scholarkit/apexscholar
 - **Website Repo**: https://github.com/scholarkit/apexscholar-website
